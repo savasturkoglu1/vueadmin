@@ -1,0 +1,3 @@
+div#app {
+    min-height: calc(100% - 32px);
+}
